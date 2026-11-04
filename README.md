@@ -8,7 +8,7 @@ Minimal research code for reproducing three numerical results using **relational
 | Figure | Python functions | Jupyter notebook |
 |---|---|---|
 | Binary-source Fisher information vs. interarrival time and optical dimension | `binary_fi.py` | `binary_time_dimension.ipynb` |
-| Einstein-cross image reconstruction using block-SWAP POVMs | `imaging_povm.py` | `Einstein_Cross_imaging.ipynb` |
+| Einstein-cross image reconstruction using RFS algorithm | `imaging_povm.py` | `Einstein_Cross_imaging.ipynb` |
 | Moving-object tracking: 1D and 2D, 8-second prediction | `object_tracking.py` | `object_tracking_8s.ipynb` |
 
 ## Run
