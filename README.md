@@ -1,5 +1,5 @@
-# Code to reproduce the results of the "Quantum Advantage in Sensing and Imaging through Coherent Nuisance Suppression" paper.
-# Relational Fourier Sampling for Quantum Telescope Imaging
+# Code to reproduce the results of the "Quantum Advantage in Sensing and Imaging" paper.
+## Relational Fourier Sampling for Quantum Telescope Imaging
 
 Minimal research code for reproducing three numerical results using **relational Fourier sampling (RFS)** under correlated atmospheric noise. 
 
